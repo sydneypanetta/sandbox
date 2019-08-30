@@ -1,5 +1,5 @@
 # sandbox
-*This is a blank repository*
+*This is a blank repository.*
 
 #### I created this space in order to:
 * Facilitate progress in COMM 3700 Project
